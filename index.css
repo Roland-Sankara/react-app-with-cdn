@@ -6,6 +6,7 @@ body{
 #root{
     width:50%;
     margin: auto;
+    margin-top: 10rem;
     text-align: center;
 }
 
@@ -20,7 +21,8 @@ button{
     border: none;
     background-color: teal;
     color:white;
-    padding: 4px;
+    padding: 4px 10px;
     border-radius: 3px;
+    font-size: 1.5rem;
 }
 
